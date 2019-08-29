@@ -23,4 +23,16 @@ git push -u origin master
 
 ---------------------------------------------
 
-6. 
+6. Creating a new branch
+
+	(to check branch git remote -v)
+	
+	git checkout -b branch1
+
+	git pull
+
+	(make some changes)
+
+	git push https://github.com/notkapier/git.git branch1
+
+7. 
