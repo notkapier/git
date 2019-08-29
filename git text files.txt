@@ -40,4 +40,14 @@ git push -u origin master
 	git push https://github.com/notkapier/git.git branch1
 
 
-7. 
+7. Merging branch to master
+
+	(move to master repo)
+
+	git checkout master
+
+	git merge branch1
+
+
+
+
