@@ -33,6 +33,11 @@ git push -u origin master
 
 	(make some changes)
 
+	git add -A
+
+	git commit -m "new commit"
+
 	git push https://github.com/notkapier/git.git branch1
+
 
 7. 
