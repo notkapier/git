@@ -37,7 +37,7 @@ git push -u origin master
 
 	git commit -m "new commit"
 
-	git push origin branch1
+	git push branch1
 
 
 7. Merging branch to master
