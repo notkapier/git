@@ -17,3 +17,8 @@ or
 git remote add origin https://github.com/notkapier/git.git
 git push -u origin master
 
+5. Downloading master(repo)
+	
+	git clone https://github.com/notkapier/git
+
+6.
