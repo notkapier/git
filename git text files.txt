@@ -37,16 +37,15 @@ git push -u origin master
 
 	git commit -m "new commit"
 
-	git push https://github.com/notkapier/git.git branch1
+	git push origin branch1
 
 
 7. Merging branch to master
 
-	(move to master repo)
-
 	git checkout master
-
-	git merge branch1
+	git pull origin master
+	git merge test
+	git push origin master
 
 
 
