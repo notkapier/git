@@ -1,6 +1,6 @@
 git text files
 
-initial
+initial commit
 
 1. git init 
 
@@ -11,4 +11,9 @@ initial
 3. git -commit -m "Your comment"
 
 4. git push https://github.com/notkapier/git.git master
+
+or 
+
+git remote add origin https://github.com/notkapier/git.git
+git push -u origin master
 
