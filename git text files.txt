@@ -1,0 +1,14 @@
+git text files
+
+initial
+
+1. git init 
+
+2. git config --global user.name "your username"
+
+	git config --global user.password "your password"
+
+3. git -commit -m "Your comment"
+
+4. git push https://github.com/notkapier/git.git master
+
